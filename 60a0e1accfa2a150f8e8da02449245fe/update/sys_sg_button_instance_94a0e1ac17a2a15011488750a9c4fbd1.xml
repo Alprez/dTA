@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_button_instance">
+    <sys_sg_button_instance action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <button display_value="Time Off Trends to Time Off Requests Nav">1ca0e1ac2fa2a1508743e9ecf26f4dd2</button>
+        <color_theme>primary</color_theme>
+        <description/>
+        <disable_offline>false</disable_offline>
+        <field_name/>
+        <icon/>
+        <label/>
+        <location>chart_screen_header</location>
+        <name/>
+        <order/>
+        <parent>54a0e1aca6a2a1508913196c426d38d2</parent>
+        <parent_table>sys_sg_screen</parent_table>
+        <sys_class_name>sys_sg_button_instance</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-04-28 15:01:42</sys_created_on>
+        <sys_id>94a0e1ac17a2a15011488750a9c4fbd1</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="test " source="x_dtagh_test">60a0e1accfa2a150f8e8da02449245fe</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="test ">60a0e1accfa2a150f8e8da02449245fe</sys_scope>
+        <sys_update_name>sys_sg_button_instance_94a0e1ac17a2a15011488750a9c4fbd1</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-04-28 15:01:42</sys_updated_on>
+        <table/>
+    </sys_sg_button_instance>
+    <sys_translated_text action="delete_multiple" query="documentkey=94a0e1ac17a2a15011488750a9c4fbd1"/>
+</record_update>

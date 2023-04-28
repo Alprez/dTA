@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_module">
+    <sys_app_module action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <application display_value="test ">50a0e1acd4a2a15012b95130c7af0bf4</application>
+        <assessment/>
+        <device_type/>
+        <filter/>
+        <hint/>
+        <homepage/>
+        <image/>
+        <link_type>DIRECT</link_type>
+        <map_page/>
+        <mobile_title>Time Off Workspace</mobile_title>
+        <mobile_view_name>Mobile</mobile_view_name>
+        <name/>
+        <order/>
+        <override_menu_roles>true</override_menu_roles>
+        <query>/x/dtagh/x_dtagh_test/workspace/dashboard</query>
+        <report/>
+        <roles>x_dtagh_test.admin,x_dtagh_test.manager</roles>
+        <sys_class_name>sys_app_module</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-04-28 15:02:37</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>9ca0e1ac8ea2a150cc763a6bbbdf7ff3</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Time Off Workspace</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="test " source="x_dtagh_test">60a0e1accfa2a150f8e8da02449245fe</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="test ">60a0e1accfa2a150f8e8da02449245fe</sys_scope>
+        <sys_update_name>sys_app_module_9ca0e1ac8ea2a150cc763a6bbbdf7ff3</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-04-28 15:02:37</sys_updated_on>
+        <timeline_page/>
+        <title>Time Off Workspace</title>
+        <uncancelable>false</uncancelable>
+        <view_name/>
+        <window_name>Time off workspace</window_name>
+    </sys_app_module>
+</record_update>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_view_config_element">
+    <sys_sg_view_config_element action="INSERT_OR_UPDATE">
+        <name>text_02_element</name>
+        <sys_class_name>sys_sg_view_config_element</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-04-28 15:02:15</sys_created_on>
+        <sys_id>d8a0e1acb1a2a150934a40df783246c7</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>text_02_element</sys_name>
+        <sys_package display_value="test " source="x_dtagh_test">60a0e1accfa2a150f8e8da02449245fe</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="test ">60a0e1accfa2a150f8e8da02449245fe</sys_scope>
+        <sys_update_name>sys_sg_view_config_element_d8a0e1acb1a2a150934a40df783246c7</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-04-28 15:02:15</sys_updated_on>
+        <view_config display_value="Time Off View Config (Requester)">54a0e1ac7ba2a150908d55d1d7ec77d0</view_config>
+        <view_template_slot display_value="text_02">6c738dbc41e35010f877183fc9b8be9a</view_template_slot>
+    </sys_sg_view_config_element>
+</record_update>

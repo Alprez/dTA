@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_predicate_m2m_action_assignment">
+    <sys_ux_predicate_m2m_action_assignment action="INSERT_OR_UPDATE">
+        <declarative_action_assignment display_value="to_navigation">54a0e1ac98a2a1502666f789fccd80ee</declarative_action_assignment>
+        <predicate display_value="Time Off Config - Recent Requests">50a0e1acb2a2a150be58def3c4554d9f</predicate>
+        <sys_class_name>sys_ux_predicate_m2m_action_assignment</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-04-28 15:01:58</sys_created_on>
+        <sys_id>d0a0e1ac8da2a150399745a7852cf292</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="test " source="x_dtagh_test">60a0e1accfa2a150f8e8da02449245fe</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="test ">60a0e1accfa2a150f8e8da02449245fe</sys_scope>
+        <sys_update_name>sys_ux_predicate_m2m_action_assignment_d0a0e1ac8da2a150399745a7852cf292</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-04-28 15:01:58</sys_updated_on>
+    </sys_ux_predicate_m2m_action_assignment>
+</record_update>

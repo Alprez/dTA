@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_applicability_m2m_list">
+    <sys_ux_applicability_m2m_list action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <applicability display_value="Time Off Admin">dca0e1aca1a2a150aa4e4ddb000d7cad</applicability>
+        <list display_value="Approved (past)">10a0e1ac7da2a150cdd4cec4681f24ad</list>
+        <order>0</order>
+        <sys_class_name>sys_ux_applicability_m2m_list</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-04-28 15:01:38</sys_created_on>
+        <sys_id>14a0e1ac39a2a150768c56845363faad</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="test " source="x_dtagh_test">60a0e1accfa2a150f8e8da02449245fe</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="test ">60a0e1accfa2a150f8e8da02449245fe</sys_scope>
+        <sys_update_name>sys_ux_applicability_m2m_list_14a0e1ac39a2a150768c56845363faad</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-04-28 15:01:38</sys_updated_on>
+    </sys_ux_applicability_m2m_list>
+</record_update>

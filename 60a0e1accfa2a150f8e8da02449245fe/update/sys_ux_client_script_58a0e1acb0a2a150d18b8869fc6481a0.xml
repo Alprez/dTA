@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_client_script">
+    <sys_ux_client_script action="INSERT_OR_UPDATE">
+        <includes/>
+        <macroponent display_value="Record">98a0e1acf5a2a15085304eeedc7a78af</macroponent>
+        <name>Launch Special Handling Notes</name>
+        <preset/>
+        <required_translations>[ ]</required_translations>
+        <script><![CDATA[
+            function handler({
+    api,
+    helpers,
+    event,
+    imports
+}) {
+   const {
+    snHttp,
+    modal,
+    screen
+} = helpers;
+
+    var SHNOutput = api.data.get_special_handling_notes.output.data.GlideSHN_Query;
+    var showModal = SHNOutput && SHNOutput.totalMsg > 0;
+    var gFormData = api.data.gform.nowRecordFormBlob;
+
+    if (api.state.specialHandlingNotesDisplayed)    return;
+
+    if (showModal && gFormData && api.context.props.screen.isActive) {
+        api.emit('RECORD#OPEN_MODAL', {
+            "route": "shn",
+            "fields": {
+                "confs": SHNOutput,
+                "table": gFormData.table,
+                "sysId": gFormData.sysId
+            }
+        });
+        api.setState("specialHandlingNotesDisplayed", true);
+    }
+}]]></script>
+        <script_api_version>2.0.0</script_api_version>
+        <sys_class_name>sys_ux_client_script</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-04-28 15:02:07</sys_created_on>
+        <sys_id>58a0e1acb0a2a150d18b8869fc6481a0</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Launch Special Handling Notes</sys_name>
+        <sys_package display_value="test " source="x_dtagh_test">60a0e1accfa2a150f8e8da02449245fe</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="test ">60a0e1accfa2a150f8e8da02449245fe</sys_scope>
+        <sys_update_name>sys_ux_client_script_58a0e1acb0a2a150d18b8869fc6481a0</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-04-28 15:02:07</sys_updated_on>
+        <target/>
+        <type/>
+    </sys_ux_client_script>
+</record_update>

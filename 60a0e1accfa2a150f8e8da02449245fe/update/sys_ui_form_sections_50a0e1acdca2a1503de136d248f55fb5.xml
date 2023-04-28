@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_form_sections form_id="50a0e1acdca2a1503de136d248f55fb5" sys_domain="global" table="x_dtagh_test_request" version="3">
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>0</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-04-28 15:02:37</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>14a0e1ac7fa2a150bd42cbe3ce8b2fb5</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_dtagh_test_request" name="x_dtagh_test_request" sys_domain="global" view="Default view">50a0e1acdca2a1503de136d248f55fb5</sys_ui_form>
+            <sys_ui_section caption="NULL" display_value="" name="x_dtagh_test_request" sys_domain="global" view="Default view">d0a0e1aceea2a1506f9f77b8a2256db5</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-04-28 15:02:37</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>1</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-04-28 15:02:37</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>dca0e1aca6a2a150d30bcc0577937eb4</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_dtagh_test_request" name="x_dtagh_test_request" sys_domain="global" view="Default view">50a0e1acdca2a1503de136d248f55fb5</sys_ui_form>
+            <sys_ui_section caption="Activity" display_value="Activity" name="x_dtagh_test_request" sys_domain="global" view="Default view">d4a0e1aceea2a1503afdb7553b2d3ab5</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-04-28 15:02:37</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form action="INSERT_OR_UPDATE">
+            <name>x_dtagh_test_request</name>
+            <roles/>
+            <sys_class_name>sys_ui_form</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-04-28 15:02:37</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>50a0e1acdca2a1503de136d248f55fb5</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_dtagh_test_request</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="test " source="x_dtagh_test">60a0e1accfa2a150f8e8da02449245fe</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="test ">60a0e1accfa2a150f8e8da02449245fe</sys_scope>
+            <sys_update_name>sys_ui_form_sections_50a0e1acdca2a1503de136d248f55fb5</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-04-28 15:02:37</sys_updated_on>
+            <sys_user/>
+            <view display_value="Default view" name="NULL">Default view</view>
+            <view_name/>
+        </sys_ui_form>
+    </sys_ui_form_sections>
+</record_update>

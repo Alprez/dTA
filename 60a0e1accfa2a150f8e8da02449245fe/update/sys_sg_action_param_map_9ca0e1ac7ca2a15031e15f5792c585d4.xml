@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_action_param_map">
+    <sys_sg_action_param_map action="INSERT_OR_UPDATE">
+        <button display_value="Edit">58a0e1ac12a2a150cd256037c0b2d2d5</button>
+        <item_parameter display_value="Reason">14a0e1ac1aa2a150c254c9aa05e448d5</item_parameter>
+        <sys_class_name>sys_sg_action_param_map</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-04-28 15:01:39</sys_created_on>
+        <sys_id>9ca0e1ac7ca2a15031e15f5792c585d4</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>14a0e1ac1aa2a150c254c9aa05e448d5</sys_name>
+        <sys_package display_value="test " source="x_dtagh_test">60a0e1accfa2a150f8e8da02449245fe</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="test ">60a0e1accfa2a150f8e8da02449245fe</sys_scope>
+        <sys_update_name>sys_sg_action_param_map_9ca0e1ac7ca2a15031e15f5792c585d4</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-04-28 15:01:39</sys_updated_on>
+        <ui_parameter display_value="Reason (Optional)">10a0e1ac74a2a15086ed957892ff41d5</ui_parameter>
+    </sys_sg_action_param_map>
+</record_update>

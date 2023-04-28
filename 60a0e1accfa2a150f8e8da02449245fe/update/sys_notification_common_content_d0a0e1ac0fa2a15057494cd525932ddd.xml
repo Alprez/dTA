@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_notification_common_content">
+    <sys_notification_common_content action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <is_default>false</is_default>
+        <long_text/>
+        <name>Time off Submitted</name>
+        <notification display_value="Time off Submitted">58a0e1ac6da2a150707e8346126497dd</notification>
+        <short_text>A time off request was submitted for your approval</short_text>
+        <sys_class_name>sys_notification_common_content</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-04-28 15:01:56</sys_created_on>
+        <sys_id>d0a0e1ac0fa2a15057494cd525932ddd</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Time off Submitted</sys_name>
+        <sys_package display_value="test " source="x_dtagh_test">60a0e1accfa2a150f8e8da02449245fe</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="test ">60a0e1accfa2a150f8e8da02449245fe</sys_scope>
+        <sys_update_name>sys_notification_common_content_d0a0e1ac0fa2a15057494cd525932ddd</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-04-28 15:01:56</sys_updated_on>
+    </sys_notification_common_content>
+</record_update>

@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ux_screen">
+    <sys_ux_screen action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <app_config display_value="Time Off Requests workspace Config">28a0e1ac01a2a1508410a63b510f1ffd</app_config>
+        <description/>
+        <event_mappings>[ ]</event_mappings>
+        <macroponent display_value="SHN Page">54a0e1acd5a2a15022e5016006d44595</macroponent>
+        <macroponent_config>{
+  "label" : "Special Handling Notes",
+  "level" : 1,
+  "variant" : "header-secondary",
+  "confs" : "@data.get_special_handling_notes.output.data.GlideSHN_Query",
+  "table" : "@data.gform.nowRecordFormBlob.table",
+  "sysId" : "@data.gform.nowRecordFormBlob.sysId",
+  "bare" : true,
+  "scrollable" : "y",
+  "headerLevel" : "1",
+  "interceptNotifications" : false,
+  "propagateNotifications" : false,
+  "views" : "workspace",
+  "selectedTabIndex" : 0
+}</macroponent_config>
+        <name>SHN Page Default</name>
+        <order>0</order>
+        <parent_macroponent/>
+        <required_translations>[{"message":"Special Handling Notes","comment":""}]</required_translations>
+        <rollback_screen/>
+        <screen_condition/>
+        <screen_type display_value="Special Handling Notes">10a0e1ac07a2a15073a0f1d226f2f1a8</screen_type>
+        <sys_class_name>sys_ux_screen</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-04-28 15:01:53</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>d4a0e1ac58a2a150a00ebce8c0f74790</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>SHN Page Default</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="test " source="x_dtagh_test">60a0e1accfa2a150f8e8da02449245fe</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="test ">60a0e1accfa2a150f8e8da02449245fe</sys_scope>
+        <sys_update_name>sys_ux_screen_d4a0e1ac58a2a150a00ebce8c0f74790</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-04-28 15:01:53</sys_updated_on>
+    </sys_ux_screen>
+    <sys_translated_text action="delete_multiple" query="documentkey=d4a0e1ac58a2a150a00ebce8c0f74790"/>
+</record_update>

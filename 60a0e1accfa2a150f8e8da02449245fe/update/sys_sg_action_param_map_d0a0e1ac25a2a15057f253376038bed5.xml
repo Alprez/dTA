@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_action_param_map">
+    <sys_sg_action_param_map action="INSERT_OR_UPDATE">
+        <button display_value="Create time request">5ca0e1aca0a2a15066e2ade770b415d4</button>
+        <item_parameter display_value="Request start_date">98a0e1ac66a2a150307fb1f7a41abcd4</item_parameter>
+        <sys_class_name>sys_sg_action_param_map</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-04-28 15:02:30</sys_created_on>
+        <sys_id>d0a0e1ac25a2a15057f253376038bed5</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>98a0e1ac66a2a150307fb1f7a41abcd4</sys_name>
+        <sys_package display_value="test " source="x_dtagh_test">60a0e1accfa2a150f8e8da02449245fe</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="test ">60a0e1accfa2a150f8e8da02449245fe</sys_scope>
+        <sys_update_name>sys_sg_action_param_map_d0a0e1ac25a2a15057f253376038bed5</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-04-28 15:02:30</sys_updated_on>
+        <ui_parameter display_value="Start date">18a0e1ac48a2a150502d29cf8a6a15d4</ui_parameter>
+    </sys_sg_action_param_map>
+</record_update>

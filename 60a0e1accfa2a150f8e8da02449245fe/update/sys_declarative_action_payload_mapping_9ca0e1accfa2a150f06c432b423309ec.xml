@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_declarative_action_payload_mapping">
+    <sys_declarative_action_payload_mapping action="INSERT_OR_UPDATE">
+        <action_payload_definition/>
+        <label>Record Open Modal Form</label>
+        <model display_value="Form">360935e9534723003eddddeeff7b127d</model>
+        <payload_map>route=modal_page^size=lg^fields@sysId={{sysId}}^fields@table={{table}}^EQ</payload_map>
+        <sys_class_name>sys_declarative_action_payload_mapping</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-04-28 15:02:11</sys_created_on>
+        <sys_id>9ca0e1accfa2a150f06c432b423309ec</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Record Open Modal Form</sys_name>
+        <sys_package display_value="test " source="x_dtagh_test">60a0e1accfa2a150f8e8da02449245fe</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="test ">60a0e1accfa2a150f8e8da02449245fe</sys_scope>
+        <sys_update_name>sys_declarative_action_payload_mapping_9ca0e1accfa2a150f06c432b423309ec</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-04-28 15:02:11</sys_updated_on>
+    </sys_declarative_action_payload_mapping>
+</record_update>

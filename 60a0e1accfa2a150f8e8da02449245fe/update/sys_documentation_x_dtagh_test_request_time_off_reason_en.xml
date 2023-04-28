@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="time_off_reason" label="Reason (Optional)" language="en" table="x_dtagh_test_request">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>time_off_reason</element>
+            <help/>
+            <hint/>
+            <label>Reason (Optional)</label>
+            <language>en</language>
+            <name>x_dtagh_test_request</name>
+            <plural>Reason (Optional)</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by/>
+            <sys_created_on/>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Reason (Optional)</sys_name>
+            <sys_package display_value="test " source="x_dtagh_test">60a0e1accfa2a150f8e8da02449245fe</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="test ">60a0e1accfa2a150f8e8da02449245fe</sys_scope>
+            <sys_update_name>sys_documentation_x_dtagh_test_request_time_off_reason_en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-04-28 15:01:51</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>

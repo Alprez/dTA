@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_event">
+    <sys_ux_event action="INSERT_OR_UPDATE">
+        <description/>
+        <event_name>CONTENT_UPDATED_RELAY_58a0e1ac31a2a150c0944ecf696e19ae</event_name>
+        <interfaces/>
+        <label>Add parameters to URL Relay (Admin)</label>
+        <props>[{"name":"params","fieldType":"json","interfaceApiName":null,"label":"Parameters"}]</props>
+        <required_translations>[{"message":"Parameters","comment":""}]</required_translations>
+        <schema_version>1.0.0</schema_version>
+        <sys_class_name>sys_ux_event</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-04-28 15:02:41</sys_created_on>
+        <sys_id>d8a0e1ace5a2a15032c35e8f5efbfb9a</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Add parameters to URL Relay (Admin)</sys_name>
+        <sys_package display_value="test " source="x_dtagh_test">60a0e1accfa2a150f8e8da02449245fe</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="test ">60a0e1accfa2a150f8e8da02449245fe</sys_scope>
+        <sys_update_name>sys_ux_event_d8a0e1ace5a2a15032c35e8f5efbfb9a</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-04-28 15:02:41</sys_updated_on>
+    </sys_ux_event>
+    <sys_translated_text action="delete_multiple" query="documentkey=d8a0e1ace5a2a15032c35e8f5efbfb9a"/>
+</record_update>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_redirect_dest_field">
+    <sys_sg_redirect_dest_field action="INSERT_OR_UPDATE">
+        <button display_value="Time Off Trends to Time Off Requests Nav">1ca0e1ac2fa2a1508743e9ecf26f4dd2</button>
+        <button_table/>
+        <constant_value/>
+        <destination_ui_parameter display_value="URL">5ca0e1acc0a2a150705b5525b649c6cb</destination_ui_parameter>
+        <source_field/>
+        <source_ui_parameter/>
+        <sys_class_name>sys_sg_redirect_dest_field</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-04-28 15:02:13</sys_created_on>
+        <sys_id>98a0e1acd9a2a15052bf278d4946ffcb</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>5ca0e1acc0a2a150705b5525b649c6cb</sys_name>
+        <sys_package display_value="test " source="x_dtagh_test">60a0e1accfa2a150f8e8da02449245fe</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="test ">60a0e1accfa2a150f8e8da02449245fe</sys_scope>
+        <sys_update_name>sys_sg_redirect_dest_field_98a0e1acd9a2a15052bf278d4946ffcb</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-04-28 15:02:13</sys_updated_on>
+        <type>field</type>
+    </sys_sg_redirect_dest_field>
+</record_update>

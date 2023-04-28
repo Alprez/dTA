@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ux_screen">
+    <sys_ux_screen action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <app_config display_value="Time Off Requests workspace Config">28a0e1ac01a2a1508410a63b510f1ffd</app_config>
+        <description/>
+        <event_mappings>[ ]</event_mappings>
+        <macroponent display_value="DA Modal Page">98a0e1ac17a2a15094c5383cd12d2b94</macroponent>
+        <macroponent_config>{
+  "sysId" : "@context.props.sysId",
+  "table" : "@context.props.table",
+  "label" : "",
+  "bare" : true,
+  "scrollable" : "y",
+  "headerLevel" : "1",
+  "interceptNotifications" : false,
+  "propagateNotifications" : false,
+  "views" : "workspace",
+  "selectedTabIndex" : 0
+}</macroponent_config>
+        <name>DA Modal Page Default</name>
+        <order>0</order>
+        <parent_macroponent display_value="Record">58a0e1ac3ba2a150b8cfffdcdd79f0aa</parent_macroponent>
+        <required_translations>[]</required_translations>
+        <rollback_screen/>
+        <screen_condition/>
+        <screen_type display_value="DA Modal Page">50a0e1ace0a2a1507ff8cc4ed25628aa</screen_type>
+        <sys_class_name>sys_ux_screen</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-04-28 15:02:05</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>18a0e1ac53a2a150c9305c9ad4124191</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>DA Modal Page Default</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="test " source="x_dtagh_test">60a0e1accfa2a150f8e8da02449245fe</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="test ">60a0e1accfa2a150f8e8da02449245fe</sys_scope>
+        <sys_update_name>sys_ux_screen_18a0e1ac53a2a150c9305c9ad4124191</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-04-28 15:02:05</sys_updated_on>
+    </sys_ux_screen>
+    <sys_translated_text action="delete_multiple" query="documentkey=18a0e1ac53a2a150c9305c9ad4124191"/>
+</record_update>

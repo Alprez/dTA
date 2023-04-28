@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_button_instance">
+    <sys_sg_button_instance action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <button display_value="Create time request">5ca0e1aca0a2a15066e2ade770b415d4</button>
+        <color_theme>primary</color_theme>
+        <description/>
+        <disable_offline>false</disable_offline>
+        <field_name/>
+        <icon display_value="icon-Plus-Solid">98a0e1acbba2a15036e5423156e1d7d1</icon>
+        <label>Request time off</label>
+        <location>quick_action</location>
+        <name>Request time off</name>
+        <order/>
+        <parent>10a0e1ac88a2a1500a1b39b2130025d4</parent>
+        <parent_table>sys_sg_applet_launcher</parent_table>
+        <sys_class_name>sys_sg_button_instance</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-04-28 15:02:08</sys_created_on>
+        <sys_id>18a0e1ac63a2a1509f4fc12bfdd46dd3</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Request time off</sys_name>
+        <sys_package display_value="test " source="x_dtagh_test">60a0e1accfa2a150f8e8da02449245fe</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="test ">60a0e1accfa2a150f8e8da02449245fe</sys_scope>
+        <sys_update_name>sys_sg_button_instance_18a0e1ac63a2a1509f4fc12bfdd46dd3</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-04-28 15:02:08</sys_updated_on>
+        <table/>
+    </sys_sg_button_instance>
+    <sys_translated_text action="delete_multiple" query="documentkey=18a0e1ac63a2a1509f4fc12bfdd46dd3"/>
+</record_update>

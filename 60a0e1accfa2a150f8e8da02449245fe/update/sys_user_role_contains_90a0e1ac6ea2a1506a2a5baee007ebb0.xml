@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_user_role_contains">
+    <sys_user_role_contains action="INSERT_OR_UPDATE">
+        <contains display_value="canvas_user" name="canvas_user">8536f54bc713330072b211d4d8c26080</contains>
+        <role display_value="x_dtagh_test.manager" name="x_dtagh_test.manager">50a0e1ac4ea2a1500d264017333125fd</role>
+        <sys_class_name>sys_user_role_contains</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-04-28 15:01:45</sys_created_on>
+        <sys_id>90a0e1ac6ea2a1506a2a5baee007ebb0</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>canvas_user.</sys_name>
+        <sys_package display_value="test " source="x_dtagh_test">60a0e1accfa2a150f8e8da02449245fe</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="test ">60a0e1accfa2a150f8e8da02449245fe</sys_scope>
+        <sys_update_name>sys_user_role_contains_90a0e1ac6ea2a1506a2a5baee007ebb0</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-04-28 15:01:45</sys_updated_on>
+    </sys_user_role_contains>
+</record_update>

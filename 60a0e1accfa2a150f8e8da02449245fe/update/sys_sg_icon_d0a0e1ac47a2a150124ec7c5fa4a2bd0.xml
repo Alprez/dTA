@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_icon">
+    <sys_sg_icon action="INSERT_OR_UPDATE">
+        <icon/>
+        <name>Time Off Requests Form Icon</name>
+        <sys_class_name>sys_sg_icon</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-04-28 15:01:40</sys_created_on>
+        <sys_id>d0a0e1ac47a2a150124ec7c5fa4a2bd0</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Time Off Requests Form Icon</sys_name>
+        <sys_package display_value="test " source="x_dtagh_test">60a0e1accfa2a150f8e8da02449245fe</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="test ">60a0e1accfa2a150f8e8da02449245fe</sys_scope>
+        <sys_update_name>sys_sg_icon_d0a0e1ac47a2a150124ec7c5fa4a2bd0</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-04-28 15:01:40</sys_updated_on>
+        <type>font</type>
+    </sys_sg_icon>
+</record_update>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_item_stream">
+    <sys_sg_item_stream action="INSERT_OR_UPDATE">
+        <data_item display_value="All Requests Data Item">9ca0e1ac8da2a1507359325fcd1425d0</data_item>
+        <interleaved_field/>
+        <name>All Requests Item Stream</name>
+        <sys_class_name>sys_sg_item_stream</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-04-28 15:02:32</sys_created_on>
+        <sys_id>10a0e1acbba2a150e5993a7884b92dce</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>All Requests Item Stream</sys_name>
+        <sys_package display_value="test " source="x_dtagh_test">60a0e1accfa2a150f8e8da02449245fe</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="test ">60a0e1accfa2a150f8e8da02449245fe</sys_scope>
+        <sys_update_name>sys_sg_item_stream_10a0e1acbba2a150e5993a7884b92dce</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-04-28 15:02:32</sys_updated_on>
+        <table>x_dtagh_test_request</table>
+    </sys_sg_item_stream>
+</record_update>

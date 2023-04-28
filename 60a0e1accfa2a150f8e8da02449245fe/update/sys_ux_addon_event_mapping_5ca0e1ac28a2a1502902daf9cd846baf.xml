@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ux_addon_event_mapping">
+    <sys_ux_addon_event_mapping action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <controller/>
+        <description/>
+        <name>Time Off Request Record Open Modal</name>
+        <parent_macroponent display_value="Record">98a0e1acf5a2a15085304eeedc7a78af</parent_macroponent>
+        <source_component/>
+        <source_da display_value="Decline Modal">18a0e1ac08a2a15019566ccdbcb54cee</source_da>
+        <source_element_id>ui_action_bar</source_element_id>
+        <sys_class_name>sys_ux_addon_event_mapping</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-04-28 15:02:24</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>5ca0e1ac28a2a1502902daf9cd846baf</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Time Off Request Record Open Modal</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="test " source="x_dtagh_test">60a0e1accfa2a150f8e8da02449245fe</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="test ">60a0e1accfa2a150f8e8da02449245fe</sys_scope>
+        <sys_update_name>sys_ux_addon_event_mapping_5ca0e1ac28a2a1502902daf9cd846baf</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-04-28 15:02:24</sys_updated_on>
+        <target_event display_value="RECORD#DECLINE_MODAL">d8a0e1acd6a2a150e517a101538572af</target_event>
+        <target_payload_mapping>{&#13;
+    "type": "MAP_CONTAINER",&#13;
+    "container": {&#13;
+      "route": {&#13;
+        "type": "EVENT_PAYLOAD_BINDING",&#13;
+        "binding": {&#13;
+          "address": [&#13;
+            "route"&#13;
+          ]&#13;
+        }&#13;
+      },&#13;
+      "size": {&#13;
+        "type": "EVENT_PAYLOAD_BINDING",&#13;
+        "binding": {&#13;
+          "address": [&#13;
+            "size"&#13;
+          ]&#13;
+        }&#13;
+      },&#13;
+      "fields": {&#13;
+        "type": "EVENT_PAYLOAD_BINDING",&#13;
+        "binding": {&#13;
+          "address": [&#13;
+            "fields"&#13;
+          ]&#13;
+        }&#13;
+      },&#13;
+      "params": {&#13;
+        "type": "EVENT_PAYLOAD_BINDING",&#13;
+        "binding": {&#13;
+          "address": [&#13;
+            "params"&#13;
+          ]&#13;
+        }&#13;
+      }&#13;
+    }&#13;
+  }</target_payload_mapping>
+    </sys_ux_addon_event_mapping>
+</record_update>

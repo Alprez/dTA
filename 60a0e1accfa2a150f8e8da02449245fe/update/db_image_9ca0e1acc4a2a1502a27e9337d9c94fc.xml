@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="db_image">
+    <db_image action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <category/>
+        <format>png</format>
+        <height>1280</height>
+        <image>d8a0e1acb9a2a150de28717491c6defc</image>
+        <name>x_dtagh_test.green_check_trans.jpg</name>
+        <size_bytes>123445</size_bytes>
+        <sys_class_name>db_image</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-04-28 15:02:20</sys_created_on>
+        <sys_id>9ca0e1acc4a2a1502a27e9337d9c94fc</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_dtagh_test.green_check_trans.jpg</sys_name>
+        <sys_package display_value="test " source="x_dtagh_test">60a0e1accfa2a150f8e8da02449245fe</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="test ">60a0e1accfa2a150f8e8da02449245fe</sys_scope>
+        <sys_update_name>db_image_9ca0e1acc4a2a1502a27e9337d9c94fc</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-04-28 15:02:20</sys_updated_on>
+        <thumbnail/>
+        <width>1280</width>
+    </db_image>
+</record_update>

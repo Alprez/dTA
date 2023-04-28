@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ux_theme_m2m_asset">
+    <sys_ux_theme_m2m_asset action="INSERT_OR_UPDATE">
+        <asset display_value="Roboto">1ca0e1ac9ea2a150ae3ae3b69854b98f</asset>
+        <properties>{&#13;
+    "font-style":"normal",&#13;
+    "font-weight":"700"&#13;
+}</properties>
+        <sys_class_name>sys_ux_theme_m2m_asset</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-04-28 15:01:52</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>dca0e1ac23a2a15068b66b7db693278e</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_overrides/>
+        <sys_package display_value="test " source="x_dtagh_test">60a0e1accfa2a150f8e8da02449245fe</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="test ">60a0e1accfa2a150f8e8da02449245fe</sys_scope>
+        <sys_update_name>sys_ux_theme_m2m_asset_dca0e1ac23a2a15068b66b7db693278e</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-04-28 15:01:52</sys_updated_on>
+        <theme display_value="Time off ws ">d0a0e1ac5aa2a150c2d62b8a4ff3d8f9</theme>
+    </sys_ux_theme_m2m_asset>
+</record_update>

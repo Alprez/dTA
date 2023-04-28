@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_section caption="" section_id="9ca0e1ac43a2a1504daf9e6b3db954b5" sys_domain="global" table="x_dtagh_test_request" version="3" view="record_x_dtagh_test">
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>rejection_reason</element>
+            <position>0</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-04-28 15:02:36</sys_created_on>
+            <sys_id>5ca0e1ac5ba2a1508c4a86d4e40e5db1</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_dtagh_test_request" sys_domain="global" view="58a0e1ac7aa2a1501b04cb050c04a7b5">9ca0e1ac43a2a1504daf9e6b3db954b5</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-04-28 15:02:36</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>status</element>
+            <position>1</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-04-28 15:02:36</sys_created_on>
+            <sys_id>dca0e1ac71a2a150d01b73f2af9b8bb1</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_dtagh_test_request" sys_domain="global" view="58a0e1ac7aa2a1501b04cb050c04a7b5">9ca0e1ac43a2a1504daf9e6b3db954b5</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-04-28 15:02:36</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>time_off_reason</element>
+            <position>2</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-04-28 15:02:36</sys_created_on>
+            <sys_id>d8a0e1ac8da2a1505fd6d6feb84536b1</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_dtagh_test_request" sys_domain="global" view="58a0e1ac7aa2a1501b04cb050c04a7b5">9ca0e1ac43a2a1504daf9e6b3db954b5</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-04-28 15:02:36</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.begin_split</element>
+            <position>3</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-04-28 15:02:36</sys_created_on>
+            <sys_id>d4a0e1ac63a2a15036e5a0900f91cbb1</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_dtagh_test_request" sys_domain="global" view="58a0e1ac7aa2a1501b04cb050c04a7b5">9ca0e1ac43a2a1504daf9e6b3db954b5</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-04-28 15:02:36</sys_updated_on>
+            <sys_user/>
+            <type>.begin_split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>start_date</element>
+            <position>4</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-04-28 15:02:36</sys_created_on>
+            <sys_id>94a0e1ac97a2a150bd945131caaaafb1</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_dtagh_test_request" sys_domain="global" view="58a0e1ac7aa2a1501b04cb050c04a7b5">9ca0e1ac43a2a1504daf9e6b3db954b5</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-04-28 15:02:36</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.split</element>
+            <position>5</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-04-28 15:02:36</sys_created_on>
+            <sys_id>54a0e1ac52a2a1501265150fdccbc9b1</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_dtagh_test_request" sys_domain="global" view="58a0e1ac7aa2a1501b04cb050c04a7b5">9ca0e1ac43a2a1504daf9e6b3db954b5</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-04-28 15:02:36</sys_updated_on>
+            <sys_user/>
+            <type>.split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>end_date</element>
+            <position>6</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-04-28 15:02:36</sys_created_on>
+            <sys_id>98a0e1ac86a2a15066418b7d24bb05b1</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_dtagh_test_request" sys_domain="global" view="58a0e1ac7aa2a1501b04cb050c04a7b5">9ca0e1ac43a2a1504daf9e6b3db954b5</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-04-28 15:02:36</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.end_split</element>
+            <position>7</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-04-28 15:02:36</sys_created_on>
+            <sys_id>18a0e1ac7ba2a1505319c28b923cb8b1</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_dtagh_test_request" sys_domain="global" view="58a0e1ac7aa2a1501b04cb050c04a7b5">9ca0e1ac43a2a1504daf9e6b3db954b5</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-04-28 15:02:36</sys_updated_on>
+            <sys_user/>
+            <type>.end_split</type>
+        </sys_ui_element>
+        <sys_ui_section action="INSERT_OR_UPDATE">
+            <caption/>
+            <header>false</header>
+            <name>x_dtagh_test_request</name>
+            <roles/>
+            <sys_class_name>sys_ui_section</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-04-28 15:02:36</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>9ca0e1ac43a2a1504daf9e6b3db954b5</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_dtagh_test_request</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="test " source="x_dtagh_test">60a0e1accfa2a150f8e8da02449245fe</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="test ">60a0e1accfa2a150f8e8da02449245fe</sys_scope>
+            <sys_update_name>sys_ui_section_9ca0e1ac43a2a1504daf9e6b3db954b5</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-04-28 15:02:36</sys_updated_on>
+            <sys_user/>
+            <title>false</title>
+            <view display_value="Record (x_dtagh_test)" name="record_x_dtagh_test">58a0e1ac7aa2a1501b04cb050c04a7b5</view>
+            <view_name/>
+        </sys_ui_section>
+    </sys_ui_section>
+</record_update>

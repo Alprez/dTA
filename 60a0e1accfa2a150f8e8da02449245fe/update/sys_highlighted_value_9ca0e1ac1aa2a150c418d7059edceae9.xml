@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_highlighted_value">
+    <sys_highlighted_value action="INSERT_OR_UPDATE">
+        <field>status</field>
+        <sys_class_name>sys_highlighted_value</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-04-28 15:02:08</sys_created_on>
+        <sys_id>9ca0e1ac1aa2a150c418d7059edceae9</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>status</sys_name>
+        <sys_package display_value="test " source="x_dtagh_test">60a0e1accfa2a150f8e8da02449245fe</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="test ">60a0e1accfa2a150f8e8da02449245fe</sys_scope>
+        <sys_update_name>sys_highlighted_value_9ca0e1ac1aa2a150c418d7059edceae9</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-04-28 15:02:08</sys_updated_on>
+        <table>x_dtagh_test_request</table>
+        <workspace display_value="Time Off Request WS">90a0e1acdaa2a15008e1e89cc0fe94f3</workspace>
+    </sys_highlighted_value>
+</record_update>

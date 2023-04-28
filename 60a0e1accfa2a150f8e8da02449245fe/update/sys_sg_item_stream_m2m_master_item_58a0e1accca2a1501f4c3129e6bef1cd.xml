@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_item_stream_m2m_master_item">
+    <sys_sg_item_stream_m2m_master_item action="INSERT_OR_UPDATE">
+        <item_stream display_value="Awaiting Approval Item Stream">9ca0e1ac6aa2a1508216f35728f95bcd</item_stream>
+        <master_item display_value="Awaiting Approval Main Item">d4a0e1ac9aa2a1509f33f61cece322cd</master_item>
+        <sys_class_name>sys_sg_item_stream_m2m_master_item</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-04-28 15:02:05</sys_created_on>
+        <sys_id>58a0e1accca2a1501f4c3129e6bef1cd</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="test " source="x_dtagh_test">60a0e1accfa2a150f8e8da02449245fe</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="test ">60a0e1accfa2a150f8e8da02449245fe</sys_scope>
+        <sys_update_name>sys_sg_item_stream_m2m_master_item_58a0e1accca2a1501f4c3129e6bef1cd</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-04-28 15:02:05</sys_updated_on>
+    </sys_sg_item_stream_m2m_master_item>
+</record_update>

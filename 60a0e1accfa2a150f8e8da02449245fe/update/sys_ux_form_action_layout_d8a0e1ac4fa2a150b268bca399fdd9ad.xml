@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_form_action_layout">
+    <sys_ux_form_action_layout action="INSERT_OR_UPDATE">
+        <action_config display_value="Time Off Record Actions - Portal">1ca0e1ac69a2a150c05ad6c281dca3af</action_config>
+        <active>true</active>
+        <description/>
+        <name>Portal Actions</name>
+        <specificity>10</specificity>
+        <sys_class_name>sys_ux_form_action_layout</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-04-28 15:02:34</sys_created_on>
+        <sys_id>d8a0e1ac4fa2a150b268bca399fdd9ad</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Portal Actions</sys_name>
+        <sys_package display_value="test " source="x_dtagh_test">60a0e1accfa2a150f8e8da02449245fe</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="test ">60a0e1accfa2a150f8e8da02449245fe</sys_scope>
+        <sys_update_name>sys_ux_form_action_layout_d8a0e1ac4fa2a150b268bca399fdd9ad</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-04-28 15:02:34</sys_updated_on>
+        <table>x_dtagh_test_request</table>
+    </sys_ux_form_action_layout>
+</record_update>

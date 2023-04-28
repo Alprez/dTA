@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl_role">
+    <sys_security_acl_role action="INSERT_OR_UPDATE">
+        <sys_class_name>sys_security_acl_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-04-28 15:02:28</sys_created_on>
+        <sys_id>d0a0e1ac7ca2a150d517340ce74cb8d6</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_dtagh_test_request.comments.x_dtagh_test.manager</sys_name>
+        <sys_package display_value="test " source="x_dtagh_test">60a0e1accfa2a150f8e8da02449245fe</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="test ">60a0e1accfa2a150f8e8da02449245fe</sys_scope>
+        <sys_security_acl display_value="x_dtagh_test_request.comments">10a0e1ac89a2a15014fccbb88e3f1ad9</sys_security_acl>
+        <sys_update_name>sys_security_acl_role_d0a0e1ac7ca2a150d517340ce74cb8d6</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-04-28 15:02:28</sys_updated_on>
+        <sys_user_role display_value="x_dtagh_test.manager" name="x_dtagh_test.manager">50a0e1ac4ea2a1500d264017333125fd</sys_user_role>
+        <transaction_id/>
+    </sys_security_acl_role>
+</record_update>

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_script_email">
+    <sys_script_email action="INSERT_OR_UPDATE">
+        <name>x_dtagh_test.to.comp.name</name>
+        <new_lines_to_html>false</new_lines_to_html>
+        <script><![CDATA[(function runMailScript( /* GlideRecord */ current, /* TemplatePrinter */ template,
+    /* Optional EmailOutbound */
+    email, /* Optional GlideRecord */ email_action,
+    /* Optional GlideRecord */
+    event) {
+
+    var coName = new GlideRecord('core_company');
+    coName.addQuery('primary', 'true');
+    coName.query();
+    if (coName.next()) {
+        //template.print('<div style="font-family: arial, helvetica, sans serif; font-size: 16pt; color: #ffffff;"><strong>');
+        template.print(coName.name);
+        //template.print('</div></strong>');
+    }
+
+})(current, template, email, email_action, event);]]></script>
+        <sys_class_name>sys_script_email</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-04-28 15:02:10</sys_created_on>
+        <sys_id>d4a0e1ac85a2a150eaeb48b297e68bda</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_dtagh_test.to.comp.name</sys_name>
+        <sys_package display_value="test " source="x_dtagh_test">60a0e1accfa2a150f8e8da02449245fe</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="test ">60a0e1accfa2a150f8e8da02449245fe</sys_scope>
+        <sys_update_name>sys_script_email_d4a0e1ac85a2a150eaeb48b297e68bda</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-04-28 15:02:10</sys_updated_on>
+    </sys_script_email>
+</record_update>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_alp_quick_action_map">
+    <sys_sg_alp_quick_action_map action="INSERT_OR_UPDATE">
+        <applet_launcher display_value="Time Off">10a0e1ac88a2a1500a1b39b2130025d4</applet_launcher>
+        <order>10</order>
+        <quick_action_button display_value="Request time off">18a0e1ac63a2a1509f4fc12bfdd46dd3</quick_action_button>
+        <sys_class_name>sys_sg_alp_quick_action_map</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-04-28 15:02:38</sys_created_on>
+        <sys_id>5ca0e1ac28a2a15041a1934c7d3938d3</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="test " source="x_dtagh_test">60a0e1accfa2a150f8e8da02449245fe</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="test ">60a0e1accfa2a150f8e8da02449245fe</sys_scope>
+        <sys_update_name>sys_sg_alp_quick_action_map_5ca0e1ac28a2a15041a1934c7d3938d3</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-04-28 15:02:38</sys_updated_on>
+    </sys_sg_alp_quick_action_map>
+</record_update>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_applicability_m2m_layout">
+    <sys_ux_applicability_m2m_layout action="INSERT_OR_UPDATE">
+        <action_layout display_value="Portal Actions">d8a0e1ac4fa2a150b268bca399fdd9ad</action_layout>
+        <active>true</active>
+        <applicability display_value="Time Off Employee">d4a0e1acb9a2a1508d6e0cb0083a54ae</applicability>
+        <order>100</order>
+        <sys_class_name>sys_ux_applicability_m2m_layout</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-04-28 15:01:52</sys_created_on>
+        <sys_id>1ca0e1acc0a2a150bcadc7758fa5bead</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="test " source="x_dtagh_test">60a0e1accfa2a150f8e8da02449245fe</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="test ">60a0e1accfa2a150f8e8da02449245fe</sys_scope>
+        <sys_update_name>sys_ux_applicability_m2m_layout_1ca0e1acc0a2a150bcadc7758fa5bead</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-04-28 15:01:52</sys_updated_on>
+    </sys_ux_applicability_m2m_layout>
+</record_update>

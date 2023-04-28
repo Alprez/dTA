@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_item_parameter">
+    <sys_sg_item_parameter action="INSERT_OR_UPDATE">
+        <default_value/>
+        <name>Reject reason</name>
+        <parent>d0a0e1acf6a2a1501dd3f056d990d9d2</parent>
+        <parent_table>sys_sg_write_back_action_item</parent_table>
+        <sys_class_name>sys_sg_item_parameter</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-04-28 15:02:36</sys_created_on>
+        <sys_id>94a0e1ace0a2a150f574d03f6ab106d5</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Reject reason</sys_name>
+        <sys_package display_value="test " source="x_dtagh_test">60a0e1accfa2a150f8e8da02449245fe</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="test ">60a0e1accfa2a150f8e8da02449245fe</sys_scope>
+        <sys_update_name>sys_sg_item_parameter_94a0e1ace0a2a150f574d03f6ab106d5</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-04-28 15:02:36</sys_updated_on>
+        <type>string</type>
+    </sys_sg_item_parameter>
+</record_update>

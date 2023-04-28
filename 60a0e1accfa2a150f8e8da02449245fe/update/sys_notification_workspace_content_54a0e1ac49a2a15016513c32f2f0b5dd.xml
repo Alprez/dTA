@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_notification_workspace_content">
+    <sys_notification_workspace_content action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <is_default>false</is_default>
+        <name>TO</name>
+        <notification display_value="Time off Submitted">58a0e1ac6da2a150707e8346126497dd</notification>
+        <route display_value="Time Off Request WS">dca0e1acf4a2a150eaed550f9f0381f5</route>
+        <sys_class_name>sys_notification_workspace_content</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-04-28 15:01:56</sys_created_on>
+        <sys_id>54a0e1ac49a2a15016513c32f2f0b5dd</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>TO</sys_name>
+        <sys_package display_value="test " source="x_dtagh_test">60a0e1accfa2a150f8e8da02449245fe</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="test ">60a0e1accfa2a150f8e8da02449245fe</sys_scope>
+        <sys_update_name>sys_notification_workspace_content_54a0e1ac49a2a15016513c32f2f0b5dd</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-04-28 15:01:56</sys_updated_on>
+    </sys_notification_workspace_content>
+</record_update>

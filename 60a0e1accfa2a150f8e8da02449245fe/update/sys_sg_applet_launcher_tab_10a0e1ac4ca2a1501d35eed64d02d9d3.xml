@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_applet_launcher_tab">
+    <sys_sg_applet_launcher_tab action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <applet_launcher display_value="Dashboard">58a0e1acd7a2a150bc6c349fa3e4cdd3</applet_launcher>
+        <icon display_value="Chart Bar">d49c89a2b72200108223e126de11a9c4</icon>
+        <label>Dashboard</label>
+        <sys_class_name>sys_sg_applet_launcher_tab</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-04-28 15:02:13</sys_created_on>
+        <sys_id>10a0e1ac4ca2a1501d35eed64d02d9d3</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Dashboard</sys_name>
+        <sys_package display_value="test " source="x_dtagh_test">60a0e1accfa2a150f8e8da02449245fe</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="test ">60a0e1accfa2a150f8e8da02449245fe</sys_scope>
+        <sys_update_name>sys_sg_applet_launcher_tab_10a0e1ac4ca2a1501d35eed64d02d9d3</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-04-28 15:02:13</sys_updated_on>
+    </sys_sg_applet_launcher_tab>
+</record_update>

@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_client_script">
+    <sys_ux_client_script action="INSERT_OR_UPDATE">
+        <includes/>
+        <macroponent display_value="Record">98a0e1acf5a2a15085304eeedc7a78af</macroponent>
+        <name>DeclineReasonSubmitHandler</name>
+        <preset/>
+        <required_translations>[ ]</required_translations>
+        <script><![CDATA[
+            /**
+ * @param {params} params
+ * @param {api} params.api
+ * @param {any} params.event
+ * @param {any} params.imports
+ */
+function handler({
+    api,
+    event,
+    helpers,
+    imports
+}) {
+    api.data.gform.setValue({
+        fieldName: 'rejection_reason',
+        value: api.state.declineReason
+    });
+    api.data.gform.setValue({
+        fieldName: 'status',
+        value: 'rejected'
+    });
+    api.data.gform.save();
+    helpers.modal.close('custom_1');
+    api.setState('declineReason', '');
+}]]></script>
+        <script_api_version>2.0.0</script_api_version>
+        <sys_class_name>sys_ux_client_script</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-04-28 15:01:53</sys_created_on>
+        <sys_id>dca0e1acb8a2a150267917b86758f8a4</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>DeclineReasonSubmitHandler</sys_name>
+        <sys_package display_value="test " source="x_dtagh_test">60a0e1accfa2a150f8e8da02449245fe</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="test ">60a0e1accfa2a150f8e8da02449245fe</sys_scope>
+        <sys_update_name>sys_ux_client_script_dca0e1acb8a2a150267917b86758f8a4</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-04-28 15:01:53</sys_updated_on>
+        <target/>
+        <type/>
+    </sys_ux_client_script>
+</record_update>

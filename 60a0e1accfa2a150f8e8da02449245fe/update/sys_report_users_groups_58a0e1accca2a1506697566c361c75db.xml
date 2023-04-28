@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_report_users_groups">
+    <sys_report_users_groups action="INSERT_OR_UPDATE">
+        <group_id/>
+        <report_id display_value="Time Off Report by Status">50a0e1ac71a2a1505a60221c49f00adc</report_id>
+        <sys_class_name>sys_report_users_groups</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-04-28 15:02:13</sys_created_on>
+        <sys_id>58a0e1accca2a1506697566c361c75db</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>50a0e1ac71a2a1505a60221c49f00adc</sys_name>
+        <sys_package display_value="test " source="x_dtagh_test">60a0e1accfa2a150f8e8da02449245fe</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="test ">60a0e1accfa2a150f8e8da02449245fe</sys_scope>
+        <sys_update_name>sys_report_users_groups_58a0e1accca2a1506697566c361c75db</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-04-28 15:02:13</sys_updated_on>
+        <user_id display_value="">e72b8b39db142810949ff9631d9619e7</user_id>
+    </sys_report_users_groups>
+</record_update>

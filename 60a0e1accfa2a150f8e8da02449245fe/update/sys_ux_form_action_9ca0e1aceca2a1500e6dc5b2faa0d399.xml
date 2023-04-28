@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_form_action">
+    <sys_ux_form_action action="INSERT_OR_UPDATE">
+        <action_type>ui_action</action_type>
+        <active>true</active>
+        <declarative_action/>
+        <description>Cancel a request and make it inactive</description>
+        <name>Cancel</name>
+        <specificity>10</specificity>
+        <sys_class_name>sys_ux_form_action</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-04-28 15:02:27</sys_created_on>
+        <sys_id>9ca0e1aceca2a1500e6dc5b2faa0d399</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Cancel</sys_name>
+        <sys_package display_value="test " source="x_dtagh_test">60a0e1accfa2a150f8e8da02449245fe</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="test ">60a0e1accfa2a150f8e8da02449245fe</sys_scope>
+        <sys_update_name>sys_ux_form_action_9ca0e1aceca2a1500e6dc5b2faa0d399</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-04-28 15:02:27</sys_updated_on>
+        <table>x_dtagh_test_request</table>
+        <ui_action display_value="Cancel_Portal">18a0e1ac85a2a150dc0d9d1b42788db6</ui_action>
+    </sys_ux_form_action>
+</record_update>
