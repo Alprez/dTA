@@ -28,7 +28,7 @@
         <mobile_picture/>
         <mobile_picture_type>use_desktop_picture</mobile_picture_type>
         <model/>
-        <name>TESTITEM1234</name>
+        <name>TESTITEM123456</name>
         <no_attachment_v2>false</no_attachment_v2>
         <no_cart>false</no_cart>
         <no_cart_v2>false</no_cart_v2>
@@ -44,7 +44,7 @@
         <order>0</order>
         <ordered_item_link/>
         <owner display_value="System Administrator">6816f79cc0a8016401c5a33be04be441</owner>
-        <picture/>
+        <picture>65fc693d97e6ed107203f1271153afa5</picture>
         <preview>JavaScript: popupOpenStandard("com.glideapp.servicecatalog_cat_item_view.do?v=1&amp;sysparm_id=87e5383d9726ed107203f1271153afb1&amp;sysparm_preview=true", "summary");</preview>
         <price>0</price>
         <published_ref/>
@@ -55,7 +55,7 @@
         <sc_ic_item_staging/>
         <sc_ic_version/>
         <sc_template display_value="AES Standard items in Service Catalog">03302dd377023010f082d599cf5a99ba</sc_template>
-        <short_description>fasdfasdsafasdfasdfsa</short_description>
+        <short_description>fasdfasdsafasdfasdfsadfsgsgsf</short_description>
         <show_variable_help_on_load>false</show_variable_help_on_load>
         <start_closed>false</start_closed>
         <state/>
@@ -63,14 +63,14 @@
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2023-05-02 09:07:18</sys_created_on>
         <sys_id>87e5383d9726ed107203f1271153afb1</sys_id>
-        <sys_mod_count>2</sys_mod_count>
-        <sys_name>TESTITEM1234</sys_name>
+        <sys_mod_count>4</sys_mod_count>
+        <sys_name>TESTITEM123456</sys_name>
         <sys_package display_value="test " source="x_dtagh_test">60a0e1accfa2a150f8e8da02449245fe</sys_package>
         <sys_policy/>
         <sys_scope display_value="test ">60a0e1accfa2a150f8e8da02449245fe</sys_scope>
         <sys_update_name>sc_cat_item_87e5383d9726ed107203f1271153afb1</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2023-05-02 12:08:00</sys_updated_on>
+        <sys_updated_on>2023-05-02 13:07:51</sys_updated_on>
         <taxonomy_topic/>
         <template/>
         <template_manager_roles/>
